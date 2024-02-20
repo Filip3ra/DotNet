@@ -1,13 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "43kH29PVup6i4ZwWjXxlAADi7VALhWBg98eoO79uMgHUlaS7BnIUYAYTbj9PQLvlO+wYdXCK1L5RCGVzihQMow==",
+  "dgSpecHash": "xX/MGqQ+4hYv98YOKFca71cnq68M8ye01+jYoTsz/rnWtYydicJpdNFwyNglBWVcpq2qb5nl5oIu0zU7sCd3zQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Usuario\\Documents\\IFNMG\\2024\\dotNET\\Aula1\\DotNet\\dotnet.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.14\\microsoft.netcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.14\\microsoft.windowsdesktop.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.14\\microsoft.aspnetcore.app.ref.6.0.14.nupkg.sha512",
-    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.14\\microsoft.netcore.app.host.win-x64.6.0.14.nupkg.sha512"
-  ],
+  "projectFilePath": "C:\\Users\\Usuario\\Documents\\IFNMG\\2024\\dotNET\\Aula1\\DotNet\\DotNet.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }
