@@ -23,3 +23,32 @@ Desvantagem:
 - Lento devido as conversões que devem ser feitas
 
 */
+
+string s = 1.ToString();
+Console.WriteLine(s);
+
+/*
+TIPOS DE REFERENCIAS
+
+Vantagens:
+- Velocidade, performance
+
+Desvantagem:
+- Inconveniente pois pode gerar erros
+
+
+Usar nomes significativos
+*/
+
+
+int[] nums = {1,2,3,4,5};
+int [] nums2 = nums;
+nums2[3] = 5;
+Console.WriteLine(nums[3]); 
+
+typeof type = 12345.Getype();
+Console.WriteLine(type); 
+
+
+
+
