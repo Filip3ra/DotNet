@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "xX/MGqQ+4hYv98YOKFca71cnq68M8ye01+jYoTsz/rnWtYydicJpdNFwyNglBWVcpq2qb5nl5oIu0zU7sCd3zQ==",
+  "dgSpecHash": "TbTN+WbSGHVDn0TY/ZaK95aYlZzAjga2XRroN1NGVNl+srEpJuYDg/rRAb56WERC9fGOvIn/G1E6t+v4EC/qNQ==",
   "success": true,
   "projectFilePath": "C:\\Users\\Usuario\\Documents\\IFNMG\\2024\\dotNET\\Aula1\\DotNet\\DotNet.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.16\\microsoft.netcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.16\\microsoft.windowsdesktop.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.16\\microsoft.aspnetcore.app.ref.7.0.16.nupkg.sha512",
+    "C:\\Users\\Usuario\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.16\\microsoft.netcore.app.host.win-x64.7.0.16.nupkg.sha512"
+  ],
   "logs": []
 }
